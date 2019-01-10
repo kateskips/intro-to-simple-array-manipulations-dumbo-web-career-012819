@@ -9,4 +9,3 @@ end
 def using_pop (array)
   array.pop("Losing My Religion")
 end
-end
