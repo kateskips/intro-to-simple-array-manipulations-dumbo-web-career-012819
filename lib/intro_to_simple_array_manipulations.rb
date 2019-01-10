@@ -6,4 +6,3 @@ def using_unshift (array, string)
   array.unshift("Brooklyn Heights")
 end
 
-def 
